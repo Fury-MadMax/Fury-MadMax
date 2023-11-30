@@ -7,11 +7,11 @@
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Adarsh06jan">
 
 
-- 🔭 I’m currently working on **Frontend Projects**
+- 🔭 I’m currently working on **Facts Web App**
 
 - 🌱 I’m currently learning **Nodejs,Expressjs**
 
-- 💬 Ask me about **React,HTML,CSS**
+- 💬 Ask me about **React,HTML,CSS,Supabase**
 
 - 📫 How to reach me **adarsh2001singh@gmail.com**
 
