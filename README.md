@@ -7,7 +7,7 @@
 - 👨‍💻 Pronouns: He/Him
 - 📋 I've previously worked as a Software Engineering Intern at [General Electric](ge.com)
 - 🎒 I've done almost 2-3 internships.
-- 🎭 Open Source Contribution: **Hacktoberfest** - Successfully submitted 5 Pull requests during Hacktoberfest 2021, including bug fixes.
+- 🎭 Open Source Contribution: **Hacktoberfest** - Successfully submitted 5 Pull requests during Hacktoberfest 2021.
 - 🧭 I love exploring and working both in frontend and backend.
 - 👨‍💻 I have taught Chemistry and Physics over 300+ students as a Tutor on Kunduz platform.
 - 💬 Ask me about **ReactJs,HTML,CSS,Javascript**
