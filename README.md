@@ -4,8 +4,7 @@
 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Adarsh06jan">
 
-- 👨‍💻 Pronouns: He/Him
--👨‍💻 I am currently working as a Data Analyst at NTT DATA.
+- 👨‍💻 I am currently working as a Data Analyst at NTT DATA.
 - 📋 I've previously worked as a Data Analyst Itern at [General Electric](ge.com)
 - 🎒 I've done almost 2-3 internships.
 - 🎭 Open Source Contribution: **Hacktoberfest** - Successfully submitted 5 Pull requests during Hacktoberfest 2021.
