@@ -4,13 +4,13 @@
 
 <img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/Adarsh06jan">
 
-- 👨‍💻 I am currently working as a Data Analyst at NTT DATA.
-- 📋 I've previously worked as a Data Analyst Itern at [General Electric](ge.com)
+- 👨‍💻 I am currently working as a Data Analyst at [NTT DATA](https://www.nttdata.com/global/en/.)
+- 📋 I've previously worked as a Data Analyst at [General Electric](ge.com)
 - 🎒 I've done almost 2-3 internships.
 - 🎭 Open Source Contribution: **Hacktoberfest** - Successfully submitted 5 Pull requests during Hacktoberfest 2021.
-- 🧭 I love exploring and working both in frontend and backend.
+- 🧭 Whether your passion lies in sports, finance, health, or social media, there’s data to explore and new relationships to uncover in every field.
 - 👨‍💻 I have taught Chemistry and Physics over 300+ students as a Tutor on Kunduz platform.
-- 💬 Ask me about **ReactJs,HTML,CSS,Javascript**
+- 💬 Ask me about **SQL,Advanced Excel,PowerBI,Python,Numpy,Pandas,Seaborn,Matplotlib,Data Cleaning**
 - 📫 How to reach me **adarsh2001singh@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
